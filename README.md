@@ -18,10 +18,10 @@ Requisitos para ejecutar el programa:
 - Tener instalado, por lo menos, [java 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
 
 Para ejecutar el programa:
-1- Acceder a la terminal de comandos (cmd) y acceder hasta la carpeta donde se haya descargado el repositorio
-2- Ejecutar en la terminal **mvn compile**
-3- Ejecutar en la terminal **mvn install**
-4- Acceder desde algún IDE o directamente ejecutar el archivo de java desde la cmd, el archivo que se debe ejecutar es **inventario.java**
+1. Acceder a la terminal de comandos (cmd) y acceder hasta la carpeta donde se haya descargado el repositorio
+2. Ejecutar en la terminal **mvn compile**
+3. Ejecutar en la terminal **mvn install**
+4. Acceder desde algún IDE o directamente ejecutar el archivo de java desde la cmd, el archivo que se debe ejecutar es **inventario.java**
 
 ## Cómo usar
 Al iniciar el programa, solicitará un usuario y una contraseña, actualmente solo es valido el usuario "OscarReyes", cuya contraseña es "INF331". Luego, se desplegará el menú con las opciones:
