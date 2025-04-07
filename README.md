@@ -13,6 +13,7 @@ Entrega de la **tarea 1** de la asignatura INF331, Pruebas de Software, de la un
 ## Instalación
 Requisitos para ejecutar el programa:
 1- Tener instalado [maven](https://maven.apache.org/download.cgi)
+
 2- Tener instalado, por lo menos, [java 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
 
 Para ejecutar el programa:
