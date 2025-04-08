@@ -40,3 +40,9 @@ Para la verificación de cada requerimiento, se esperaría lo siguiente:
 3. **R3:** La verificación del requerimiento se debería realizar revisando que cada producto filtrado cumple con el método de filtración ocupado, también se podría validar que se obtienen todos los productos que cumplen la filtración solicitada. Por otro lado, se podría verificar que los métodos de filtración resultan utiles en el negocio y se pueden utilizar en algún contexto en que se utilice el inventario.
 4. **R4:** Para la verificación del requerimiento, se podría realizar un conteo de productos y del costo actual del inventario para verificar que el reporte es correcto. Además, se debe verificar que los productos que el programa avisa que no tienen stock, efectivamente tengan un 0 en el atributo de cantidad.
 5. **R5:** Para verificar el último requisito, se debe verificar que el usuario y contraseña utilizado exista dentro del programa. En el caso de que el usuario pueda modificar la contraseña, verificar que efectivamente se cambie la contraseña del usuario modificado.
+
+## Pruebas realizadas
+
+Se realizaron pruebas por cada requerimiento y se obtuvo lo siguiente:
+
+![pruebas](pruebas.PNG "pruebas por cada requerimiento")
