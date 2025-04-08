@@ -12,7 +12,7 @@ Como la tarea fue realizada de manera individual, no hubo una discusión sobre l
 1. Primero organizar lo que se debía realizar e investigar sobre log4j, pues no se había utilizado antes.
 2. Lograr instalar todos los requisitos para la correcta ejecución del programa, como log4j y maven.
 
-![Log4j](log4j-apiconfig.png "log4j en el pom.xml del proyecto")
+![Log4j](log4j-apiconfig.PNG "log4j en el pom.xml del proyecto")
 
 3. Especificar el como se completarán los requerimientos en el código, especificando aspectos en los métodos de filtrado que se permitirán, el como se guardarán los artículos de inventario o el orden en que se realizará cada parte del código (por ejemplo, el orden de creación de cada opción del menu).
 
@@ -21,7 +21,7 @@ Como la tarea fue realizada de manera individual, no hubo una discusión sobre l
 4. Comenzar la creación de código, según lo organizado anteriormente.
 5. Crear el respositorio en Github y slack. Conectar slack al repositorio.
 
-![Slack](slack-tarea1.png "Slack")
+![Slack](slack-tarea1.PNG "Slack")
 
 6. Crear la documentación solicitada.
 
