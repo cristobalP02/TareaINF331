@@ -4,11 +4,11 @@
 
 ---
 
-**1. El desarrollo de $(x+2)^2$ es:**\
-a) $x^2 + 4\
-    b) $x^2 + 4x + 4$\
-    c) $x^2 + 2x + 4$\
-    d) $x^2 + x + 4$
+**1. El desarrollo de $(x+2)^2$ es:**
+    \a) $x^2 + 4
+    \b) $x^2 + 4x + 4$
+    \c) $x^2 + 2x + 4$
+    \d) $x^2 + x + 4$
 
 **2. ¿Cuál de las siguientes expresiones representa el desarrollo del cuadrado de binomio $(a-3)^2$?**
     a) $a^2 - 9$
